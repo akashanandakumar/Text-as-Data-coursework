@@ -1,1 +1,1 @@
-# Text-as-Data-coursework
+semester 2: Text as data assignment
